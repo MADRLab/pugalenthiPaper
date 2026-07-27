@@ -7,4 +7,4 @@ https://github.com/MADRLab/linguisticFeatureExtraction
 https://github.com/MADRLab/speechTimingMeasures
 
 ## Statistical testing
-Please see mlClassifiers folder
+Please see main directory and the mlClassifiers directory
